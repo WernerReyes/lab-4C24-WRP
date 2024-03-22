@@ -1,0 +1,8 @@
+1. Tecnologias Emergentes
+2. Construcción y pruebas de software
+3. Desarrollo de Aplicaciones Empresariales
+4. Desarrollo de Aplicaciones Web
+5. Investigacion e Innovación Tecnologico
+6. Programacion en Móviles
+7. Taller de Innovación
+
